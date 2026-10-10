@@ -1,0 +1,14 @@
+services:
+  db:
+    image: postgres:16
+    container_name: dentogrand-db
+    environment:
+      POSTGRES_DB: dentogrand
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"
+    volumes:
+      - dentogrand-data:/var/lib/postgresql/data
+volumes:
+  dentogrand-data:
