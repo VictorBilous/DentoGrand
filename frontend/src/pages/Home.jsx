@@ -7,8 +7,8 @@ export default function Home() {
   return (
     <section className="hero container">
       <img className="hero-logo" src="/img/logo.svg" alt="Логотип DentoGrand" width="150" height="150" />
-      <h1 className="hero-title">DentoGrand</h1>
-      <p className="hero-sub">Стоматологическая клиника, где лечить зубы не страшно</p>
+      <h1 className="hero-title">Денто-Гранд</h1>
+      <p className="hero-sub">Стоматологическая клиника для всей семьи</p>
       <button type="button" className="btn btn-primary btn-lg" onClick={() => setOpen(true)}>
         Записаться на приём
       </button>
