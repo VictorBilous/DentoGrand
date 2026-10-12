@@ -43,7 +43,7 @@ export default function App() {
         </Routes>
       </main>
       <footer className="footer">
-        <div className="container">© {new Date().getFullYear()} Денто-Гранд — стоматология для всей семьи</div>
+        <div className="container">© {new Date().getFullYear()} DentoGrand — стоматологическая клиника</div>
       </footer>
     </>
   );

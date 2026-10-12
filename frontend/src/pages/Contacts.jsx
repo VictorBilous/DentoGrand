@@ -10,9 +10,8 @@ export default function Contacts() {
         <dl className="contact-list card card-body">
           <dt>Адрес</dt>
           <dd>{C.address}</dd>
-          <dt>Телефоны</dt>
-                  <dd><a href={`tel:${C.phoneHref1}`}>{C.phone1}</a></dd>
-                  <dd><a href={`tel:${C.phoneHref2}`}>{C.phone2}</a></dd>
+          <dt>Телефон</dt>
+          <dd><a href={`tel:${C.phoneHref}`}>{C.phone}</a></dd>
           <dt>Время работы</dt>
           <dd>
             <table className="hours">
@@ -23,8 +22,6 @@ export default function Contacts() {
               </tbody>
             </table>
           </dd>
-        <dt>Медицинская лицензия</dt>
-        <dd>{C.license}</dd>
         </dl>
         <div className="map">
           <iframe title="Карта: как нас найти" src={map} loading="lazy" allowFullScreen />

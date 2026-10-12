@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\data\\content.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\data\\content.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.production.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\cjs\\react-dom.production.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.production.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\umd\\react-dom.production.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.profiling.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\cjs\\react-dom.profiling.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.profiling.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\umd\\react-dom.profiling.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\dentogrand\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\dentogrand\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\dentogrand\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\dentogrand\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\dentogrand\\dentogrand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\dentogrand\\dentogrand.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\dentogrand\\dentogrand.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\dentogrand\\dentogrand.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\umd\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\cjs\\react-dom.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\umd\\react-dom-test-utils.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\umd\\react-dom-test-utils.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom-test-utils.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\node_modules\\react-dom\\cjs\\react-dom-test-utils.development.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\pages\\contacts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\pages\\contacts.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7DDD27-98B2-0571-6A64-0AB3FB481EDC}|backend\\DentoGrand.Api\\DentoGrand.Api.csproj|c:\\users\\victor\\source\\repos\\dentogrand\\backend\\dentogrand.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8C7DDD27-98B2-0571-6A64-0AB3FB481EDC}|backend\\DentoGrand.Api\\DentoGrand.Api.csproj|solutionrelative:backend\\dentogrand.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\dentogrand\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\dentogrand\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7DDD27-98B2-0571-6A64-0AB3FB481EDC}|backend\\DentoGrand.Api\\DentoGrand.Api.csproj|c:\\users\\victor\\source\\repos\\dentogrand\\backend\\dentogrand.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7DDD27-98B2-0571-6A64-0AB3FB481EDC}|backend\\DentoGrand.Api\\DentoGrand.Api.csproj|solutionrelative:backend\\dentogrand.api\\data\\dbseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\pages\\home.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "react-dom.profiling.min.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.profiling.min.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\umd\\react-dom.profiling.min.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.profiling.min.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\umd\\react-dom.profiling.min.js",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAAAO8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "react-dom.profiling.min.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.profiling.min.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\cjs\\react-dom.profiling.min.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.profiling.min.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\cjs\\react-dom.profiling.min.js",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEAAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:39.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "react-dom.production.min.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.production.min.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\umd\\react-dom.production.min.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.production.min.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\umd\\react-dom.production.min.js",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAN4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:34.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "react-dom.production.min.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\cjs\\react-dom.production.min.js",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDUAAACiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:18.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\App.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\App.jsx",
+              "RelativeToolTip": "frontend\\src\\App.jsx",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC0AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-11T20:13:54.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "content.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\data\\content.js",
+              "RelativeDocumentMoniker": "frontend\\src\\data\\content.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\data\\content.js",
+              "RelativeToolTip": "frontend\\src\\data\\content.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T15:09:24.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "frontend\\src\\DentoGrand\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\appsettings.Development.json",
+              "RelativeToolTip": "frontend\\src\\DentoGrand\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T20:31:27.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DentoGrand.csproj",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\DentoGrand.csproj",
+              "RelativeDocumentMoniker": "frontend\\src\\DentoGrand\\DentoGrand.csproj",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\DentoGrand.csproj",
+              "RelativeToolTip": "frontend\\src\\DentoGrand\\DentoGrand.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T20:31:12.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DentoGrand.http",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\DentoGrand.http",
+              "RelativeDocumentMoniker": "frontend\\src\\DentoGrand\\DentoGrand.http",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\DentoGrand.http",
+              "RelativeToolTip": "frontend\\src\\DentoGrand\\DentoGrand.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-10-11T20:31:33.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "frontend\\src\\DentoGrand\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\Properties\\launchSettings.json",
+              "RelativeToolTip": "frontend\\src\\DentoGrand\\Properties\\launchSettings.json",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T23:58:51.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.development.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\umd\\react-dom.development.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom.development.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\umd\\react-dom.development.js",
+              "ViewState": "AgIAAFgQAAAAAAAAAADgv2IQAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:15.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "react-dom.development.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\cjs\\react-dom.development.js",
+              "ViewState": "AgIAAGcQAAAAAAAAAAAAAG8QAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:10.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "react-dom-test-utils.development.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom-test-utils.development.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\umd\\react-dom-test-utils.development.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\umd\\react-dom-test-utils.development.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\umd\\react-dom-test-utils.development.js",
+              "ViewState": "AgIAAOQDAAAAAAAAAAAAAOQDAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:08.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "react-dom-test-utils.development.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom-test-utils.development.js",
+              "RelativeDocumentMoniker": "frontend\\node_modules\\react-dom\\cjs\\react-dom-test-utils.development.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\node_modules\\react-dom\\cjs\\react-dom-test-utils.development.js",
+              "RelativeToolTip": "frontend\\node_modules\\react-dom\\cjs\\react-dom-test-utils.development.js",
+              "ViewState": "AgIAAOsDAAAAAAAAAAAAAOgDAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T23:57:04.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contacts.jsx",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\pages\\Contacts.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\pages\\Contacts.jsx",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\pages\\Contacts.jsx",
+              "RelativeToolTip": "frontend\\src\\pages\\Contacts.jsx",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-11T23:20:52.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\package.json",
+              "RelativeDocumentMoniker": "frontend\\package.json",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\package.json",
+              "RelativeToolTip": "frontend\\package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T19:16:12.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\package-lock.json",
+              "RelativeDocumentMoniker": "frontend\\package-lock.json",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\package-lock.json",
+              "RelativeToolTip": "frontend\\package-lock.json",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-11T22:20:44.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\index.html",
+              "RelativeDocumentMoniker": "frontend\\index.html",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\index.html",
+              "RelativeToolTip": "frontend\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-11T15:04:34.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\backend\\DentoGrand.Api\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "backend\\DentoGrand.Api\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\backend\\DentoGrand.Api\\wwwroot\\index.html",
+              "RelativeToolTip": "backend\\DentoGrand.Api\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-11T15:04:41.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\Web.config",
+              "RelativeDocumentMoniker": "frontend\\Web.config",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\Web.config",
+              "RelativeToolTip": "frontend\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-11T20:33:19.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\Dockerfile",
+              "RelativeDocumentMoniker": "frontend\\src\\DentoGrand\\Dockerfile",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\DentoGrand\\Dockerfile",
+              "RelativeToolTip": "frontend\\src\\DentoGrand\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-11T20:31:44.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\main.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\main.jsx",
+              "RelativeToolTip": "frontend\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-11T20:13:29.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\vite.config.js",
+              "RelativeDocumentMoniker": "frontend\\vite.config.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\vite.config.js",
+              "RelativeToolTip": "frontend\\vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T19:16:19.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\api.js",
+              "RelativeDocumentMoniker": "frontend\\src\\api.js",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\api.js",
+              "RelativeToolTip": "frontend\\src\\api.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-10-11T20:29:59.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\styles.css",
+              "RelativeDocumentMoniker": "frontend\\src\\styles.css",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\styles.css",
+              "RelativeToolTip": "frontend\\src\\styles.css",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-11T20:29:25.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DbSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\backend\\DentoGrand.Api\\Data\\DbSeeder.cs",
+              "RelativeDocumentMoniker": "backend\\DentoGrand.Api\\Data\\DbSeeder.cs",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\backend\\DentoGrand.Api\\Data\\DbSeeder.cs",
+              "RelativeToolTip": "backend\\DentoGrand.Api\\Data\\DbSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T17:35:06.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Home.jsx",
+              "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\pages\\Home.jsx",
+              "RelativeDocumentMoniker": "frontend\\src\\pages\\Home.jsx",
+              "ToolTip": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\pages\\Home.jsx",
+              "RelativeToolTip": "frontend\\src\\pages\\Home.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-11T15:04:57.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
