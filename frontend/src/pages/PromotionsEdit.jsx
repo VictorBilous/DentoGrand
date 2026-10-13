@@ -32,7 +32,9 @@ export default function PromotionsEdit() {
     api.getAllPromotions().then(setItems).catch(handle);
   }, [handle]);
 
-  useEffect(load, [load]);
+  useEffect(() => {
+    load();
+  }, [load]);
 
   const set = (k) => (e) => setForm((f) => ({ ...f, [k]: e.target.value }));
 

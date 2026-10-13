@@ -21,7 +21,9 @@ export default function Navbar() {
   const { pathname } = useLocation();
   const navigate = useNavigate();
 
-  useEffect(() => setOpen(false), [pathname]);
+  useEffect(() => {
+    setOpen(false);
+  }, [pathname]);
 
   const cls = (extra = '') => ({ isActive }) => `btn nav-btn ${extra} ${isActive ? 'is-active' : ''}`;
 

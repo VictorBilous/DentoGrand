@@ -20,7 +20,9 @@ export default function Records() {
     api.getAppointments().then(setItems).catch(handle);
   }, [handle]);
 
-  useEffect(load, [load]);
+  useEffect(() => {
+    load();
+  }, [load]);
 
   async function toggle(a) {
     try {
