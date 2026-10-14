@@ -31,9 +31,9 @@ export default function Navbar() {
     <header className="navbar">
       <div className="container navbar-inner">
         {pathname !== '/' ? (
-          <Link to="/" className="brand" aria-label="DentoGrand — на главную">
+          <Link to="/" className="brand" aria-label="Денто-Гранд — на главную">
             <img src="/img/logo.svg" alt="" width="34" height="34" />
-            <span>DentoGrand</span>
+            <span>Денто-Гранд</span>
           </Link>
         ) : (
           <span className="brand-spacer" />
