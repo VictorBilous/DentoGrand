@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import { Navigate, Route, Routes, useLocation } from 'react-router-dom';
+import { Link, Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar.jsx';
 import { useAuth } from './auth.jsx';
 import Home from './pages/Home.jsx';
@@ -8,6 +8,7 @@ import Doctors from './pages/Doctors.jsx';
 import Services from './pages/Services.jsx';
 import Promotions from './pages/Promotions.jsx';
 import Contacts from './pages/Contacts.jsx';
+import Privacy from './pages/Privacy.jsx';
 import AdminLogin from './pages/AdminLogin.jsx';
 import Records from './pages/Records.jsx';
 import PromotionsEdit from './pages/PromotionsEdit.jsx';
@@ -38,6 +39,7 @@ export default function App() {
           <Route path="/services" element={<Services />} />
           <Route path="/actions" element={<Promotions />} />
           <Route path="/contacts" element={<Contacts />} />
+          <Route path="/privacy" element={<Privacy />} />
           <Route path="/admin" element={<AdminLogin />} />
           <Route path="/records" element={<RequireAuth><Records /></RequireAuth>} />
           <Route path="/actions_edit" element={<RequireAuth><PromotionsEdit /></RequireAuth>} />
@@ -45,7 +47,10 @@ export default function App() {
         </Routes>
       </main>
       <footer className="footer">
-        <div className="container">© {new Date().getFullYear()} Денто-Гранд — стоматология для всей семьи</div>
+        <div className="container">
+          <span>© {new Date().getFullYear()} Денто-Гранд — стоматология для семьи</span>
+          <Link to="/privacy" className="footer-link">Политика конфиденциальности</Link>
+        </div>
       </footer>
     </>
   );

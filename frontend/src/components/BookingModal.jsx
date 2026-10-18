@@ -4,7 +4,7 @@ import { api } from '../api.js';
 const PHONE_RE = /^\+?[0-9\s()\-]{6,20}$/;
 
 export default function BookingModal({ onClose }) {
-  const [form, setForm] = useState({ name: '', phone: '', comment: '' });
+  const [form, setForm] = useState({ name: '', phone: '', comment: '', agree: false });
   const [errors, setErrors] = useState({});
   const [serverError, setServerError] = useState('');
   const [sending, setSending] = useState(false);
@@ -22,12 +22,14 @@ export default function BookingModal({ onClose }) {
   }, [onClose]);
 
   const set = (k) => (e) => setForm((f) => ({ ...f, [k]: e.target.value }));
+  const setAgree = (e) => setForm((f) => ({ ...f, agree: e.target.checked }));
 
   function validate() {
     const er = {};
     if (form.name.trim().length < 2) er.name = 'Введите ваше имя';
     if (!form.phone.trim()) er.phone = 'Введите контактный телефон';
     else if (!PHONE_RE.test(form.phone.trim())) er.phone = 'Проверьте номер телефона';
+    if (!form.agree) er.agree = 'Для отправки заявки необходимо согласие на обработку персональных данных';
     return er;
   }
 
@@ -87,6 +89,17 @@ export default function BookingModal({ onClose }) {
               <textarea rows={3} value={form.comment} onChange={set('comment')} maxLength={1000}
                 placeholder="Например, удобное время или что вас беспокоит" />
             </label>
+
+            <div className="consent">
+              <label>
+                <input type="checkbox" checked={form.agree} onChange={setAgree} aria-invalid={!!errors.agree} />
+                <span>
+                  Я даю согласие на обработку моих персональных данных (имени и номера телефона) в соответствии
+                  с <a href="/privacy" target="_blank" rel="noopener noreferrer">Политикой конфиденциальности</a>
+                </span>
+              </label>
+              {errors.agree && <em className="error">{errors.agree}</em>}
+            </div>
 
             {serverError && <p className="alert" role="alert">{serverError}</p>}
 

@@ -27,7 +27,15 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  background: linear-gradient(to bottom, #165170 0%, #49AEE2 100%);
+  background-color: var(--light);
+  /* сверху — полупрозрачные размытые облака (бесшовная плитка по вертикали),
+     снизу — основа: градиент от #165170 к #49AEE2 на всю высоту страницы */
+  background-image:
+    url('/img/clouds.webp'),
+    linear-gradient(to bottom, #165170 0%, #49AEE2 100%);
+  background-repeat: repeat-y, no-repeat;
+  background-size: max(1100px, 100%) auto, 100% 100%;
+  background-position: center top, 0 0;
 }
 
 h1, h2, h3 { margin: 0 0 .6em; line-height: 1.2; font-weight: 600; font-family: var(--font-display); }
@@ -196,3 +204,17 @@ img { max-width: 100%; display: block; }
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; transition: none !important; }
 }
+
+/* ---------- Политика конфиденциальности и согласие ---------- */
+.legal h2 { font-size: 1.1rem; margin: 1.8em 0 .6em; }
+.legal ul { margin: 0 0 1em; padding-left: 1.3em; }
+.legal li { margin-bottom: .35em; }
+
+.consent { font-size: .92rem; font-weight: 400; line-height: 1.45; }
+.consent label { display: flex; gap: 10px; align-items: flex-start; cursor: pointer; }
+.consent input[type="checkbox"] { flex-shrink: 0; width: 20px; height: 20px; margin: 2px 0 0; accent-color: #fff; cursor: pointer; }
+.consent input[aria-invalid="true"] { outline: 2px solid #ff9a9a; outline-offset: 2px; }
+.consent .error { display: block; margin-top: 6px; }
+
+.footer .container { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: center; align-items: center; }
+.footer-link { color: #fff; }
