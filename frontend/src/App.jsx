@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { Link, Navigate, Route, Routes, useLocation } from 'react-router-dom';
 import Navbar from './components/Navbar.jsx';
+import CompanyInfo from './components/CompanyInfo.jsx';
 import { useAuth } from './auth.jsx';
 import Home from './pages/Home.jsx';
 import About from './pages/About.jsx';
@@ -47,9 +48,12 @@ export default function App() {
         </Routes>
       </main>
       <footer className="footer">
-        <div className="container">
-          <span>© {new Date().getFullYear()} Денто-Гранд — стоматология для семьи</span>
-          <Link to="/privacy" className="footer-link">Политика конфиденциальности</Link>
+        <div className="container footer-grid">
+          <CompanyInfo variant="footer" />
+          <div className="footer-bottom">
+            <span>© {new Date().getFullYear()} Денто-Гранд — стоматология для семьи</span>
+            <Link to="/privacy" className="footer-link">Политика конфиденциальности</Link>
+          </div>
         </div>
       </footer>
     </>
