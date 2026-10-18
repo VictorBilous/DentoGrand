@@ -172,7 +172,7 @@ img { max-width: 100%; display: block; }
 .actions-cell { white-space: nowrap; }
 
 /* ---------- Подвал ---------- */
-.footer { padding: 18px 0; font-size: .9rem; background: rgba(10, 45, 66, .55); text-align: center; }
+.footer { padding: 24px 0; font-size: .875rem; background: rgba(10, 45, 66, .55); }
 
 /* ---------- Адаптивность ---------- */
 @media (max-width: 860px) {
@@ -216,5 +216,27 @@ img { max-width: 100%; display: block; }
 .consent input[aria-invalid="true"] { outline: 2px solid #ff9a9a; outline-offset: 2px; }
 .consent .error { display: block; margin-top: 6px; }
 
-.footer .container { display: flex; flex-wrap: wrap; gap: 8px 24px; justify-content: center; align-items: center; }
+.footer-grid { display: flex; flex-direction: column; gap: 16px; }
+.footer-bottom { display: flex; flex-wrap: wrap; gap: 8px 24px; padding-top: 14px; border-top: 1px solid var(--panel-border); }
 .footer-link { color: #fff; }
+
+/* Реквизиты организации (шрифт не меньше 12 px) */
+.company-info { font-size: max(12px, .875rem); line-height: 1.55; font-style: normal; }
+.company-footer { display: flex; flex-direction: column; gap: 4px; max-width: 70em; }
+.company-footer strong { font-size: max(14px, 1rem); }
+.company-full { margin-top: 28px; font-size: max(14px, .95rem); }
+.company-title { font-size: 1.1rem; margin: 0 0 .8em; }
+.company-full dl { margin: 0; display: grid; grid-template-columns: minmax(150px, 220px) 1fr; gap: 8px 20px; }
+.company-full dt { font-weight: 700; color: #cfeeff; }
+.company-full dd { margin: 0; }
+.company-gap { margin-top: 6px; }
+@media (max-width: 600px) {
+  .company-full dl { grid-template-columns: 1fr; gap: 2px; }
+  .company-full dd { margin-bottom: 10px; }
+}
+
+/* ---------- О клинике ---------- */
+.about-headline { font-size: clamp(1.15rem, 3vw, 1.6rem); margin: 0 0 .7em; }
+.about-list-title { font-weight: 700; margin-bottom: .4em; }
+.about-text ul { margin: 0 0 1.2em; padding-left: 1.3em; }
+.about-text li { margin-bottom: .6em; }

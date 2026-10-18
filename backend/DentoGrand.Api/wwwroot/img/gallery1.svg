@@ -1,4 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" preserveAspectRatio="xMidYMid slice">
-<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b7aa0"/><stop offset="1" stop-color="#0f3f58"/></linearGradient></defs>
-<rect width="400" height="500" fill="url(#b)"/><rect x="60" y="260" width="280" height="130" rx="14" fill="#fff" fill-opacity=".85"/><circle cx="130" cy="200" r="46" fill="#fff" fill-opacity=".5"/><rect x="190" y="150" width="130" height="90" rx="10" fill="#fff" fill-opacity=".35"/>
-<text x="200" y="478" font-family="Arial,sans-serif" font-size="18" fill="#fff" fill-opacity=".8" text-anchor="middle">Приёмный кабинет</text></svg>
