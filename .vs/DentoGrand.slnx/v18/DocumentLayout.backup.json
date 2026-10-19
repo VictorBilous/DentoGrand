@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\data\\content.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\components\\companyinfo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\components\\companyinfo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\components\\companyinfo.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|c:\\users\\victor\\source\\repos\\dentogrand\\frontend\\src\\data\\~content.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{BEC1AF4D-7070-47DE-541E-D6A8B557E3AB}|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend|solutionrelative:frontend\\src\\data\\~content.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8C7DDD27-98B2-0571-6A64-0AB3FB481EDC}|backend\\DentoGrand.Api\\DentoGrand.Api.csproj|c:\\users\\victor\\source\\repos\\dentogrand\\backend\\dentogrand.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8C7DDD27-98B2-0571-6A64-0AB3FB481EDC}|backend\\DentoGrand.Api\\DentoGrand.Api.csproj|solutionrelative:backend\\dentogrand.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\data\\~content.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frontend\\src\\data\\~content.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "~content.js",
               "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\frontend\\src\\data\\~content.js",
               "RelativeDocumentMoniker": "frontend\\src\\data\\~content.js",
@@ -38,8 +38,7 @@
               "RelativeToolTip": "frontend\\src\\data\\~content.js",
               "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-10-18T16:23:20.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T16:23:20.004Z"
             },
             {
               "$type": "Document",
@@ -51,12 +50,11 @@
               "RelativeToolTip": "frontend\\src\\components\\CompanyInfo.jsx",
               "ViewState": "AgIAABkAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-10-18T16:21:12.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T16:21:12.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Victor\\source\\repos\\DentoGrand\\backend\\DentoGrand.Api\\appsettings.json",
               "RelativeDocumentMoniker": "backend\\DentoGrand.Api\\appsettings.json",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "backend\\DentoGrand.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-18T14:29:48.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-18T14:29:48.345Z"
             },
             {
               "$type": "Document",
