@@ -1,0 +1,33 @@
+import { CONTACTS as C } from '../data/content.js';
+
+export default function Contacts() {
+  const map = `https://yandex.ru/map-widget/v1/?ll=${C.lon}%2C${C.lat}&z=16&pt=${C.lon}%2C${C.lat}%2Cpm2dbm`;
+
+  return (
+    <div className="container">
+      <h1 className="page-title">Контакты</h1>
+      <div className="contacts">
+        <dl className="contact-list card card-body">
+          <dt>Адрес</dt>
+          <dd>{C.address}</dd>
+          <dt>Телефоны</dt>
+                  <dd><a href={`tel:${C.phoneHref1}`}>{C.phone1}</a></dd>
+                  <dd><a href={`tel:${C.phoneHref2}`}>{C.phone2}</a></dd>
+          <dt>Время работы</dt>
+          <dd>
+            <table className="hours">
+              <tbody>
+                {C.hours.map(([d, t]) => (
+                  <tr key={d}><th scope="row">{d}</th><td>{t}</td></tr>
+                ))}
+              </tbody>
+            </table>
+          </dd>
+        </dl>
+        <div className="map">
+          <iframe title="Карта: как нас найти" src={map} loading="lazy" allowFullScreen />
+        </div>
+      </div>
+    </div>
+  );
+}

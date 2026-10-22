@@ -10,6 +10,7 @@ export default function CompanyInfo({ variant = 'full' }) {
         <strong>{C.fullName}</strong>
         <span>Юридический адрес: {C.legalAddress}</span>
         <span>ОГРН {C.ogrn} · ИНН {C.inn}</span>
+        <span>Генеральный директор: {C.director}</span>
         <span>
           Тел.: <a href={`tel:${C.phoneHref}`}>{C.phone}</a> · E-mail: <a href={`mailto:${C.email}`}>{C.email}</a>
         </span>

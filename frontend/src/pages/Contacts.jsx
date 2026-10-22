@@ -1,5 +1,4 @@
 import { CONTACTS as C } from '../data/content.js';
-import CompanyInfo from '../components/CompanyInfo.jsx';
 
 export default function Contacts() {
   const map = `https://yandex.ru/map-widget/v1/?ll=${C.lon}%2C${C.lat}&z=16&pt=${C.lon}%2C${C.lat}%2Cpm2dbm`;
@@ -14,6 +13,7 @@ export default function Contacts() {
           <dt>Телефоны</dt>
                   <dd><a href={`tel:${C.phoneHref1}`}>{C.phone1}</a></dd>
                   <dd><a href={`tel:${C.phoneHref2}`}>{C.phone2}</a></dd>
+                  <dd><a href={`tel:${C.phoneHref3}`}>{C.phone3}</a></dd>
           <dt>Время работы</dt>
           <dd>
             <table className="hours">
@@ -29,8 +29,6 @@ export default function Contacts() {
           <iframe title="Карта: как нас найти" src={map} loading="lazy" allowFullScreen />
         </div>
       </div>
-
-      <div className="company-gap"><CompanyInfo /></div>
     </div>
   );
 }

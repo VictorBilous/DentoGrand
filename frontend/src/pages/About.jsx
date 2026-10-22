@@ -1,5 +1,4 @@
 import { ABOUT, GALLERY } from '../data/content.js';
-import CompanyInfo from '../components/CompanyInfo.jsx';
 
 export default function About() {
   return (
@@ -24,8 +23,6 @@ export default function About() {
         </p>
         <p>{ABOUT.outro}</p>
       </div>
-
-      <CompanyInfo />
 
       <h2 className="section-title">Фотогалерея</h2>
       <div className="gallery">
